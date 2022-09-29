@@ -1,0 +1,29 @@
+
+.cardSize{
+    width: 300px;
+    height: 350px;
+    background-color: #303a52;
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 50px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.3);
+}
+
+.cardBtn{
+    width: 130px;
+    background-color: #303a52;
+    color: #fc85ae;
+    border: 1px solid #fc85ae;
+}
+
+.cardBtn :hover{
+    background-color: #9e579d;
+    color: #FFF;
+    border: 0px;
+}
+
+.imgcar{
+    width: 300px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
